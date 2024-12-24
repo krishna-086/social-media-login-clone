@@ -1,6 +1,3 @@
 @tailwind base;
 @tailwind components;
-.w_box{
-    width: 30%
-}
 @tailwind utilities;

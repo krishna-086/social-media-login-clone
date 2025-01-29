@@ -1,5 +1,5 @@
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-  base: '/facebook-login-clone/',  // Your repository name
+  base: '/social-media-login-clone/',  // Your repository name
 })
